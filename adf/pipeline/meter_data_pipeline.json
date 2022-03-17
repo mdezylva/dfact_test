@@ -38,6 +38,8 @@
 				]
 			}
 		],
-		"annotations": []
+		"annotations": [
+			"meter-data"
+		]
 	}
 }
