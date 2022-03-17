@@ -247,6 +247,9 @@
 					"elapsedTimeMetric": {},
 					"cancelAfter": {}
 				},
+				"folder": {
+					"name": "MeterData"
+				},
 				"annotations": []
 			},
 			"dependsOn": [
@@ -302,7 +305,12 @@
 					"elapsedTimeMetric": {},
 					"cancelAfter": {}
 				},
-				"annotations": []
+				"folder": {
+					"name": "MeterData"
+				},
+				"annotations": [
+					"meter-data"
+				]
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/datasets/AzureBlob1')]",
