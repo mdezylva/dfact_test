@@ -1,0 +1,9 @@
+{
+	"name": "ignite-prod-dfact",
+	"location": "EastUS",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3051901b-d4c0-4060-a2cb-6098b8d18a43",
+		"tenantId": "09639d60-e47a-4706-84a2-38bb6e577e18"
+	}
+}
