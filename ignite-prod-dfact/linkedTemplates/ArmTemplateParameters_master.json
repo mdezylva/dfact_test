@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ignite-prod-dfact"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureBlob1_properties_typeProperties_fileName": {
+			"value": "emp.txt"
+		},
+		"AzureBlob1_properties_typeProperties_folderPath": {
+			"value": "test/input"
+		},
+		"AzureBlob2_properties_typeProperties_fileName": {
+			"value": "output/emp.txt"
+		},
+		"AzureBlob2_properties_typeProperties_folderPath": {
+			"value": "test"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
