@@ -1,0 +1,9 @@
+{
+	"name": "df-git-test",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b071525-63bb-4e46-bfd8-7937b0211e2c",
+		"tenantId": "09639d60-e47a-4706-84a2-38bb6e577e18"
+	}
+}
